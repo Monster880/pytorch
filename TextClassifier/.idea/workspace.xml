@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f28bc52-f703-4aae-b0c0-2b82dd75f1c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/remote-mappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sentiment/Sentiment/data/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/THUCNews/data/train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/textcnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../root@101.34.23.65/.idea/Bert-Chinese-Text-Classification-Pytorch-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/EasyBert.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/EasyBert.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Augmentation/EDA.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Augmentation/EDA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Augmentation/constant.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Augmentation/constant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Augmentation/stopwords/stopwords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Augmentation/stopwords/stopwords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Augmentation/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Augmentation/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Augmentation/translate_baidu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Augmentation/translate_baidu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Augmentation/translate_tencent.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Augmentation/translate_tencent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Augmentation/translate_translate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Augmentation/translate_translate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/.idea/BERT-NER-Pytorch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/.idea/BERT-NER-Pytorch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/adversarial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/adversarial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/lr_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/lr_finder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/lr_scheduler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/lr_scheduler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/modelcheckpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/modelcheckpoint.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/optimizater/adabound.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/optimizater/adabound.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/optimizater/adafactor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/optimizater/adafactor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/optimizater/adamw.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/optimizater/adamw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/optimizater/lamb.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/optimizater/lamb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/optimizater/lars.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/optimizater/lars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/optimizater/lookahead.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/optimizater/lookahead.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/optimizater/nadam.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/optimizater/nadam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/optimizater/novograd.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/optimizater/novograd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/optimizater/planradam.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/optimizater/planradam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/optimizater/radam.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/optimizater/radam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/optimizater/ralamb.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/optimizater/ralamb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/optimizater/ralars.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/optimizater/ralars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/optimizater/sgdw.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/optimizater/sgdw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/progressbar.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/progressbar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/callback/trainingmonitor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/callback/trainingmonitor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/datasets/cluener/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/datasets/cluener/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/datasets/cner/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/datasets/cner/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/losses/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/losses/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/losses/dice_loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/losses/dice_loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/losses/focal_loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/losses/focal_loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/losses/label_smoothing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/losses/label_smoothing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/metrics/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/metrics/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/metrics/ner_metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/metrics/ner_metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/albert_for_ner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/albert_for_ner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/bert_for_ner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/bert_for_ner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/layers/crf.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/layers/crf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/layers/linears.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/layers/linears.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/configuration_albert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/configuration_albert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/configuration_auto.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/configuration_auto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/configuration_bert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/configuration_bert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/configuration_ctrl.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/configuration_ctrl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/configuration_distilbert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/configuration_distilbert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/configuration_gpt2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/configuration_gpt2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/configuration_openai.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/configuration_openai.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/configuration_roberta.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/configuration_roberta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/configuration_transfo_xl.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/configuration_transfo_xl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/configuration_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/configuration_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/configuration_xlm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/configuration_xlm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/configuration_xlnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/configuration_xlnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/file_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/file_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/modeling_albert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/modeling_albert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/modeling_albert_bright.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/modeling_albert_bright.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/modeling_auto.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/modeling_auto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/modeling_bert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/modeling_bert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/modeling_ctrl.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/modeling_ctrl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/modeling_distilbert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/modeling_distilbert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/modeling_gpt2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/modeling_gpt2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/modeling_openai.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/modeling_openai.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/modeling_roberta.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/modeling_roberta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/modeling_transfo_xl.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/modeling_transfo_xl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/modeling_transfo_xl_utilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/modeling_transfo_xl_utilities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/modeling_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/modeling_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/modeling_xlm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/modeling_xlm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/modeling_xlnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/modeling_xlnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/tokenization_albert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/tokenization_albert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/tokenization_auto.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/tokenization_auto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/tokenization_bert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/tokenization_bert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/tokenization_ctrl.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/tokenization_ctrl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/tokenization_distilbert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/tokenization_distilbert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/tokenization_gpt2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/tokenization_gpt2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/tokenization_openai.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/tokenization_openai.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/tokenization_roberta.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/tokenization_roberta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/tokenization_transfo_xl.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/tokenization_transfo_xl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/tokenization_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/tokenization_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/tokenization_xlm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/tokenization_xlm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/models/transformers/tokenization_xlnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/models/transformers/tokenization_xlnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/outputs/cner_output/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/outputs/cner_output/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/outputs/cner_output/bert/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/outputs/cner_output/bert/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/outputs/cner_output/bert/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/outputs/cner_output/bert/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/prev_trained_model/bert-base/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/prev_trained_model/bert-base/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/prev_trained_model/bert-base/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/prev_trained_model/bert-base/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/processors/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/processors/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/processors/ner_seq.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/processors/ner_seq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/processors/ner_span.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/processors/ner_span.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/processors/utils_ner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/processors/utils_ner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/run_ner_crf.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/run_ner_crf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/run_ner_softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/run_ner_softmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/run_ner_span.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/run_ner_span.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/scripts/run_ner_crf.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/scripts/run_ner_crf.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/scripts/run_ner_softmax.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/scripts/run_ner_softmax.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/scripts/run_ner_span.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/scripts/run_ner_span.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/tools/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/tools/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/tools/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/tools/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/tools/convert_albert_tf_checkpoint_to_pytorch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/tools/convert_albert_tf_checkpoint_to_pytorch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/tools/download_clue_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/tools/download_clue_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/tools/finetuning_argparse.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/tools/finetuning_argparse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NER/tools/plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NER/tools/plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/data_preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/data_preprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/models/ERNIE.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/models/ERNIE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/models/bert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/models/bert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/models/bert_CNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/models/bert_CNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/models/bert_DPCNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/models/bert_DPCNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/models/bert_RCNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/models/bert_RCNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/models/bert_RNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/models/bert_RNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/pytorch_pretrained/file_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/pytorch_pretrained/file_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/pytorch_pretrained/modeling.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/pytorch_pretrained/modeling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/pytorch_pretrained/modeling_gpt2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/pytorch_pretrained/modeling_gpt2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/pytorch_pretrained/modeling_openai.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/pytorch_pretrained/modeling_openai.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/pytorch_pretrained/optimization.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/pytorch_pretrained/optimization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/pytorch_pretrained/optimization_openai.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/pytorch_pretrained/optimization_openai.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/pytorch_pretrained/tokenization_gpt2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/pytorch_pretrained/tokenization_gpt2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/pytorch_pretrained/tokenization_openai.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/pytorch_pretrained/tokenization_openai.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sentiment/train_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sentiment/train_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TextClassifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Bert-Chinese-Text-Classification-Pytorch-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Bert-Chinese-Text-Classification-Pytorch-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_preprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/bert.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/bert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/bert_CNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/bert_CNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/bert_DPCNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/bert_DPCNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/bert_RCNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/bert_RCNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/bert_RNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/bert_RNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextMatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TextMatch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextMatch/.idea/TextMatch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TextMatch/.idea/TextMatch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextMatch/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TextMatch/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextMatch/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TextMatch/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextMatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TextMatch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextMatch/Bert/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TextMatch/Bert/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextMatch/Bert/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TextMatch/Bert/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextMatch/Bert/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TextMatch/Bert/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextMatch/Bert/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TextMatch/Bert/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextMatch/Bert/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TextMatch/Bert/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextMatch/Bert/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TextMatch/Bert/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../optimize/EMA.py" beforeDir="false" afterPath="$PROJECT_DIR$/../optimize/EMA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../optimize/FGM.py" beforeDir="false" afterPath="$PROJECT_DIR$/../optimize/FGM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../optimize/PGD.py" beforeDir="false" afterPath="$PROJECT_DIR$/../optimize/PGD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="c2c19cfd-3b43-4b27-911d-1c7615903463" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1YTct8OD7SXwYQbb4fgVKwc9Rr4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Bert-Chinese-Text-Classification-Pytorch-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="smoothing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Bert-Chinese-Text-Classification-Pytorch-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/smoothing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sushen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Bert-Chinese-Text-Classification-Pytorch-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sushen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trick" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Bert-Chinese-Text-Classification-Pytorch-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trick.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="update" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Bert-Chinese-Text-Classification-Pytorch-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/update.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.trick" />
+        <item itemvalue="Python.sushen" />
+        <item itemvalue="Python.update" />
+        <item itemvalue="Python.smoothing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f28bc52-f703-4aae-b0c0-2b82dd75f1c8" name="Default Changelist" comment="" />
+      <created>1582970236331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582970236331</updated>
+      <workItem from="1582970243165" duration="1360000" />
+      <workItem from="1583054626330" duration="377000" />
+      <workItem from="1583117463198" duration="4277000" />
+      <workItem from="1583122531415" duration="2058000" />
+      <workItem from="1583138241325" duration="13585000" />
+      <workItem from="1583153803079" duration="1692000" />
+      <workItem from="1583156092935" duration="1010000" />
+      <workItem from="1583210359863" duration="15177000" />
+      <workItem from="1583302932795" duration="134000" />
+      <workItem from="1583556354106" duration="727000" />
+      <workItem from="1584351197942" duration="3942000" />
+      <workItem from="1584355888236" duration="10000" />
+      <workItem from="1584356254644" duration="607000" />
+      <workItem from="1584420460145" duration="1288000" />
+      <workItem from="1584422651568" duration="598000" />
+      <workItem from="1584428222242" duration="1119000" />
+      <workItem from="1584429516131" duration="9489000" />
+      <workItem from="1584446977761" duration="1178000" />
+      <workItem from="1584453398904" duration="637000" />
+      <workItem from="1584495568397" duration="630000" />
+      <workItem from="1584503737158" duration="2347000" />
+      <workItem from="1584508997410" duration="2363000" />
+      <workItem from="1584542393612" duration="35037000" />
+      <workItem from="1584682309443" duration="684000" />
+      <workItem from="1584683978900" duration="12916000" />
+      <workItem from="1584700424237" duration="4974000" />
+      <workItem from="1584759913783" duration="61000" />
+      <workItem from="1584759996283" duration="141000" />
+      <workItem from="1584760240960" duration="5298000" />
+      <workItem from="1584928031147" duration="20684000" />
+      <workItem from="1584975073391" duration="599000" />
+      <workItem from="1585014993582" duration="6630000" />
+      <workItem from="1585128227078" duration="95000" />
+      <workItem from="1585128399137" duration="1990000" />
+      <workItem from="1585283483052" duration="3151000" />
+      <workItem from="1585291718232" duration="9966000" />
+      <workItem from="1585363927191" duration="1048000" />
+      <workItem from="1585543621401" duration="1674000" />
+      <workItem from="1585553633404" duration="8000" />
+      <workItem from="1586322107107" duration="3380000" />
+      <workItem from="1586336932530" duration="3000" />
+      <workItem from="1586336962809" duration="290000" />
+      <workItem from="1586620247787" duration="415000" />
+      <workItem from="1653207747672" duration="348000" />
+      <workItem from="1653208179812" duration="3716000" />
+      <workItem from="1653357486635" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_preprocess.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Bert_Chinese_Text_Classification_Pytorch_master$bert.coverage" NAME="bert Coverage Results" MODIFIED="1584689297201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/Bert_Chinese_Text_Classification_Pytorch_master$bert_RNN.coverage" NAME="bert_RNN Coverage Results" MODIFIED="1584689304024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/Bert_Chinese_Text_Classification_Pytorch_master$trick.coverage" NAME="trick Coverage Results" MODIFIED="1584961582397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bert_Chinese_Text_Classification_Pytorch_master$smoothing.coverage" NAME="smoothing Coverage Results" MODIFIED="1584702950294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bert_Chinese_Text_Classification_Pytorch_master$sushen.coverage" NAME="sushen Coverage Results" MODIFIED="1584941293796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bert_Chinese_Text_Classification_Pytorch_master$class_balanced_loss.coverage" NAME="class_balanced_loss Coverage Results" MODIFIED="1584615943323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bert_Chinese_Text_Classification_Pytorch_master$run.coverage" NAME="run Coverage Results" MODIFIED="1585023042916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bert_Chinese_Text_Classification_Pytorch_master$update.coverage" NAME="update Coverage Results" MODIFIED="1584769918520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
